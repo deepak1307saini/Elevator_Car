@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="702776d5-eb10-4c5b-911e-932e6477f5f0" name="Changes" comment="" />
+    <list default="true" id="702776d5-eb10-4c5b-911e-932e6477f5f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ElevatorCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExternalButtonDispatcher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
